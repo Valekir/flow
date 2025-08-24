@@ -26,6 +26,4 @@ Flow помогает серфить идеи безопасно и с удов�
 ### Внешние ссылки
  - [Figma](https://www.figma.com/design/2XIfIpY4AGnqWHZM7NmWps/flow?node-id=0-1&t=rHBuId1qvp1hDG12-1)
  - [Backend](https://github.com/go-park-mail-ru/2025_1_SuperChips)
-
-### Демонстрация
-Чтобы посмотреть видео, [нажмите здесь](./assets/demo.webm).
+ - [Демонстрация](https://disk.yandex.ru/i/TREOy2P-WH9d0g)
