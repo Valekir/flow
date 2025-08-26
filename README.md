@@ -26,6 +26,7 @@ Flow помогает серфить идеи безопасно и с удов�
 ### Демонстрация
 <img width="1356" height="759" alt="image" src="https://github.com/user-attachments/assets/8a276a74-8670-4218-9b61-b70d47dccad3" />
 <img width="1359" height="760" alt="image" src="https://github.com/user-attachments/assets/dc35b70a-7c38-496a-923b-b1c6d8c10913" />
+<img width="1362" height="756" alt="image" src="https://github.com/user-attachments/assets/195b0e09-2a42-4a0e-a0d9-137f111c2437" />
 <img width="1360" height="763" alt="image" src="https://github.com/user-attachments/assets/e0bbbaff-b829-45a3-8e29-4318be81a545" />
 <img width="1359" height="758" alt="image" src="https://github.com/user-attachments/assets/2a1102e7-5c67-44fa-8edd-066b7b32f6f2" />
 <img width="1356" height="763" alt="image" src="https://github.com/user-attachments/assets/36a82dfe-870e-4e20-9a2b-c34f3a5c4ff9" />
