@@ -23,6 +23,16 @@ Flow помогает серфить идеи безопасно и с удов�
  - **Сборка** — для сборки и оптимизации используется Webpack
  - **Роутинг** — реализован кастомный роутер для навигации между страницами приложения
 
+### Демонстрация
+<img width="1356" height="759" alt="image" src="https://github.com/user-attachments/assets/8a276a74-8670-4218-9b61-b70d47dccad3" />
+<img width="1359" height="760" alt="image" src="https://github.com/user-attachments/assets/dc35b70a-7c38-496a-923b-b1c6d8c10913" />
+<img width="1360" height="763" alt="image" src="https://github.com/user-attachments/assets/e0bbbaff-b829-45a3-8e29-4318be81a545" />
+<img width="1359" height="758" alt="image" src="https://github.com/user-attachments/assets/2a1102e7-5c67-44fa-8edd-066b7b32f6f2" />
+<img width="1356" height="763" alt="image" src="https://github.com/user-attachments/assets/36a82dfe-870e-4e20-9a2b-c34f3a5c4ff9" />
+<img width="1359" height="763" alt="image" src="https://github.com/user-attachments/assets/0296457e-2428-4d1e-997a-54f99ffe644f" />
+
+
+
 ### Внешние ссылки
  - [Figma](https://www.figma.com/design/2XIfIpY4AGnqWHZM7NmWps/flow?node-id=0-1&t=rHBuId1qvp1hDG12-1)
  - [Backend](https://github.com/go-park-mail-ru/2025_1_SuperChips)
